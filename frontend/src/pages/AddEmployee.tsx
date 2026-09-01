@@ -27,7 +27,7 @@ export default function AddEmployee() {
 
   return (
     <div className="mx-auto max-w-lg px-4 py-8">
-      <div className="mb-6">
+      <div className="mb-7">
         <Link to="/" className="text-sm text-blue-600 hover:text-blue-800">
           ← Back to Employee List
         </Link>
